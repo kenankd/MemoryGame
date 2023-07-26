@@ -1,13 +1,7 @@
 # Project: Igra Memorija - Memory Game Simulation
 
-## Team Members:
-1. Kenan Dizdarević
-2. Ali Boudellaa
-3. Nedim Hošić
-4. Berin Karahodžić
-
 ## Introduction
-This project is developed using the Raspberry Pi Pico microcontroller and MicroPython language, along with a matrix keyboard and TFT SPI display. The main function of this project is to simulate a memory game with different levels of difficulty.
+This project is developed using the Raspberry Pi Pico microcontroller and MicroPython language, along with a matrix keyboard and TFT SPI display. The main function of this project is to simulate a memory game with different levels of difficulty. Link to a video presentation of the project: https://www.youtube.com/watch?v=S6pZJlPe3G4
 
 ## System Description
 The system utilizes the Raspberry Pi Pico microcontroller as the central processing unit. A matrix keyboard serves as the input device for user interaction, while a TFT display is used for visualizing the game and the user interface.
@@ -27,6 +21,13 @@ The system utilizes the Raspberry Pi Pico microcontroller as the central process
 3. Input Device: Matrix Keyboard
 4. Output Device: TFT Display
 
+## Team Members:
+1. Kenan Dizdarević
+2. Ali Boudellaa
+3. Nedim Hošić
+4. Berin Karahodžić
+
+   
 ## Conclusion
 This project offers a simple and intuitive solution for simulating the memory game. By combining hardware components and MicroPython programming, the game provides various levels of challenge to cater to different users' needs.
 
